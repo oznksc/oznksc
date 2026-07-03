@@ -98,40 +98,6 @@ A modern guided tour library for React. Create product tours, feature introducti
 
 ---
 
-## Toolbox
-
-<table width="100%" style="width:100% !important; max-width:100% !important;">
-<tr>
-<th width="33%">Design</th>
-<th width="33%">Development</th>
-<th width="33%">Backend</th>
-</tr>
-<tr>
-<td>Figma</td><td>Swift</td><td>FastAPI</td>
-</tr>
-<tr>
-<td>Design Systems</td><td>SwiftUI</td><td>Supabase</td>
-</tr>
-<tr>
-<td>UI Kits</td><td>React Native</td><td>PostgreSQL</td>
-</tr>
-<tr>
-<td>Prototyping</td><td>TypeScript</td><td>Docker</td>
-</tr>
-<tr>
-<td>User Flows</td><td>Vue</td><td></td>
-</tr>
-<tr>
-<td>Design Tokens</td><td>Angular</td><td></td>
-</tr>
-<tr>
-<td>Interaction Design</td><td>HTML / CSS</td><td></td>
-</tr>
-<tr>
-<td></td><td>Tailwind CSS</td><td></td>
-</tr>
-</table>
-
 
 ## Philosophy
 
