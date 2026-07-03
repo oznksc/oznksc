@@ -115,19 +115,6 @@ I'm gradually open-sourcing the tools and systems I build — OpenEQ, Design Res
 
 ---
 
-## GitHub
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oznksc&theme=default" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oznksc&theme=default" alt="Languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oznksc&theme=minimal"/>
-</p>
-
----
-
 ## Beyond Work
 
 Outside of design, you'll usually find me experimenting with indie products, exploring AI, refining interfaces pixel by pixel, or turning random ideas into working prototypes.
