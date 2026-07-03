@@ -51,6 +51,12 @@ A playful learning experience for children combining coloring, creativity, and e
 
 <small><kbd>Product Design</kbd></small> <small><kbd>Mobile</kbd></small> <small><kbd>Kids Experience</kbd></small>
 
+### <img src="https://fionn.art/brands/tintsense/tintsense-logo-svg.svg" width="24" height="24" align="center" alt=""> TintSense
+
+A clearer way to analyse contrast and colour decisions.
+
+<small><kbd>Design Tool</kbd></small> <small><kbd>Accessibility</kbd></small> <small><kbd>Open Source</kbd></small>
+
 ### <img src="./foldie-app-icon.png" width="24" height="24" align="center" alt=""> Foldie
 
 An AI-powered papercraft platform that transforms characters into printable modular paper toys. Designed for creativity, education, and hands-on play.
