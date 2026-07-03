@@ -118,8 +118,8 @@ I'm gradually open-sourcing the tools and systems I build — OpenEQ, Design Res
 ## GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oznksc&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555&bg_color=ffffff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznksc&layout=compact&hide_border=true&title_color=000000&text_color=555&bg_color=ffffff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oznksc&theme=default" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oznksc&theme=default" alt="Languages"/>
 </p>
 
 <p align="center">
