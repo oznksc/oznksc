@@ -61,7 +61,7 @@ An AI-powered papercraft platform that transforms characters into printable modu
 
 ## Toolbox
 
-<table width="100%">
+<table width="100%" style="width:100% !important; max-width:100% !important;">
 <tr>
 <th width="33%">Design</th>
 <th width="33%">Development</th>
