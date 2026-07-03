@@ -93,7 +93,6 @@ An AI-powered papercraft platform that transforms characters into printable modu
 </tr>
 </table>
 
----
 
 ## Philosophy
 
@@ -101,19 +100,16 @@ An AI-powered papercraft platform that transforms characters into printable modu
 
 I enjoy reducing complexity, creating consistent systems, and building products that people genuinely enjoy using.
 
----
 
 ## Current Focus
 
 Building products where design and engineering work as one — exploring Apple-native interfaces, Swift & SwiftUI, AI-powered UX, Design Systems, Frontend Architecture, and Open Source.
 
----
 
 ## Open Source
 
 I'm gradually open-sourcing the tools and systems I build — OpenEQ, Design Resources, and Figma Plugins.
 
----
 
 ## Beyond Work
 
