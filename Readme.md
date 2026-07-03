@@ -33,7 +33,7 @@ Lately, I've been spending most of my time exploring Swift, AI-assisted workflow
 
 # Selected Work
 
-## 🎛 OpenEQ
+## <img src="./openeq-app-icon.png" width="28" height="28" align="center" alt=""> OpenEQ
 
 An open-source system-wide equalizer for macOS focused on performance, simplicity, and native user experience.
 
@@ -41,7 +41,7 @@ An open-source system-wide equalizer for macOS focused on performance, simplicit
 
 <br>
 
-## 🎨 Huekit
+## <img src="./huekit-app-icon.svg" width="28" height="28" align="center" alt=""> Huekit
 
 Generate complete design systems directly inside Figma.
 
@@ -51,7 +51,7 @@ Design Tokens, Component Libraries, Variables, and documentation generated in se
 
 <br>
 
-## 🗺 PinTraveler
+## <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/ef/e0/e3efe046-da97-c340-1d12-c64a4ca96849/Placeholder.mill/400x400bb-75.webp" width="28" height="28" align="center" alt=""> Pin Traveler: Track Travel Map
 
 A travel journal designed around memorable places rather than checklists.
 
@@ -61,7 +61,7 @@ Apple-inspired interactions, editorial layouts, and thoughtful onboarding experi
 
 <br>
 
-## 🎮 Pixie: Kids Games & Coloring
+## <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/2f/ff/782fff79-1b0b-1575-9a9f-d26913f9bbd6/Placeholder.mill/400x400bb-75.webp" width="28" height="28" align="center" alt=""> Pixie: Kids Games & Coloring
 
 A playful learning experience for children combining coloring, creativity, and educational mini-games.
 
@@ -71,7 +71,7 @@ Focused on accessibility, delightful interactions, and parent-friendly UX.
 
 <br>
 
-## 📦 Foldie
+## <img src="./foldie-app-icon.png" width="28" height="28" align="center" alt=""> Foldie
 
 An AI-powered papercraft platform that transforms characters into printable modular paper toys.
 
