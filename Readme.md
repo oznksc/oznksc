@@ -12,7 +12,8 @@ Product Design • Design Systems • Frontend • AI
 
 [Portfolio](https://www.fionn.art) ·
 [LinkedIn](https://www.linkedin.com/in/oznksc/) ·
-[Behance](https://be.net/oznksc)
+[Behance](https://be.net/oznksc) ·
+[Contra](https://contra.com/mrozankesici)
 
 </div>
 
