@@ -4,7 +4,7 @@
 
 I'm **Ozan Kesici**.
 
-Product Design • Design Systems • Frontend • AI
+<a href="https://pintraveler.net/" target="_blank" rel="noopener noreferrer">Product Designer @ Pin Traveler</a> • Design Systems • Frontend • AI
 
 [My Studio](https://www.fionn.art) ·
 [LinkedIn](https://www.linkedin.com/in/oznksc/) ·
@@ -17,7 +17,7 @@ Product Design • Design Systems • Frontend • AI
 
 ## About
 
-I'm a Product Designer based in Türkiye. For the past 5+ years, I've been designing web and mobile experiences, building scalable design systems, and creating developer-ready interfaces for products used by thousands of people.
+I'm a Product Designer based in Türkiye, currently at <a href="https://pintraveler.net/" target="_blank" rel="noopener noreferrer"><strong>Pin Traveler</strong></a> — building products for travelers worldwide. For the past 5+ years, I've been designing web and mobile experiences, building scalable design systems, and creating developer-ready interfaces for products used by thousands of people.
 
 My work lives somewhere between product design and engineering. I enjoy building products where beautiful interfaces meet clean implementation.
 
