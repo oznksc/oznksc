@@ -22,9 +22,9 @@ I'm currently exploring native Apple interfaces, Swift and SwiftUI, AI-assisted 
 
 ## Connect
 
-[Pin Traveler](https://pintraveler.net/) ·
-[Fionn Studio](https://www.fionn.art) ·
-[Figma](https://www.figma.com/@mrozankesici) ·
-[LinkedIn](https://www.linkedin.com/in/oznksc/) ·
-[Behance](https://be.net/oznksc) ·
-[Contra](https://contra.com/mrozankesici)
+<img src="https://www.google.com/s2/favicons?domain=pintraveler.net&sz=32" width="12" height="12" alt=""> [Pin Traveler](https://pintraveler.net/) ·
+<img src="https://avatars.githubusercontent.com/u/179615870?s=64&v=4" width="12" height="12" alt=""> [Fionn Studio](https://www.fionn.art) ·
+<img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="12" height="12" alt=""> [Figma](https://www.figma.com/@mrozankesici) ·
+<img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32" width="12" height="12" alt=""> [LinkedIn](https://www.linkedin.com/in/oznksc/) ·
+<img src="https://www.google.com/s2/favicons?domain=behance.net&sz=32" width="12" height="12" alt=""> [Behance](https://be.net/oznksc) ·
+<img src="https://www.google.com/s2/favicons?domain=contra.com&sz=32" width="12" height="12" alt=""> [Contra](https://contra.com/mrozankesici)
